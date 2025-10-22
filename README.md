@@ -10,7 +10,7 @@
   -Google Clasroom
   -Excel
 ## İlerleme Tablosu
-  | Tarih | Yapılan İşlem |
-  |-------|---------------|
-  |       |               |
+  |    Tarih   | Yapılan İşlem |
+  |------------|---------------|
+  | 22.10.2025 |               |
 
