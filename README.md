@@ -10,7 +10,7 @@
   -Google Clasroom
   -Excel
 ## İlerleme Tablosu
-  |    Tarih   | Yapılan İşlem |
-  |------------|---------------|
-  | 22.10.2025 |               |
+  |    Tarih   |                Yapılan İşlem                         |
+  |------------|------------------------------------------------------|
+  | 22.10.2025 | Konu seçildi, problem ve hipotez taslağı oluşturuldu.|
 
