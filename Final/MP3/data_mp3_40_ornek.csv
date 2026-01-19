@@ -1,0 +1,41 @@
+﻿ogrenci_id,cinsiyet,yas,ai_kullanım_sıklığı,ai_araç_türü,eleştirel_düşünme_puanı
+1,Erkek,18,Düşük,Google Gemini,58
+2,Erkek,20,Düşük,ChatGPT,65
+3,Erkek,24,Yüksek,ChatGPT,87
+4,Erkek,21,Düşük,Yok,55
+5,Erkek,24,Yüksek,Claude,93
+6,Erkek,20,Düşük,Claude,60
+7,Kadın,20,Yüksek,Google Gemini,88
+8,Erkek,24,Yüksek,Google Gemini,96
+9,Kadın,18,Düşük,Claude,63
+10,Erkek,24,Yüksek,Yok,94
+11,Kadın,21,Düşük,ChatGPT,55
+12,Erkek,22,Yüksek,Bing Copilot,88
+13,Kadın,22,Orta,Google Gemini,72
+14,Kadın,23,Yüksek,Google Gemini,87
+15,Erkek,21,Yüksek,Claude,97
+16,Kadın,21,Düşük,Google Gemini,68
+17,Erkek,21,Yüksek,Google Gemini,97
+18,Kadın,19,Yüksek,Yok,95
+19,Erkek,25,Orta,Claude,72
+20,Kadın,20,Yüksek,Yok,93
+21,Kadın,24,Orta,Bing Copilot,72
+22,Kadın,19,Yüksek,ChatGPT,89
+23,Erkek,24,Düşük,ChatGPT,61
+24,Kadın,25,Düşük,Google Gemini,63
+25,Erkek,19,Düşük,Yok,67
+26,Kadın,23,Yüksek,Google Gemini,98
+27,Erkek,25,Yüksek,Google Gemini,90
+28,Erkek,22,Düşük,Yok,64
+29,Erkek,20,Orta,Bing Copilot,78
+30,Erkek,23,Orta,ChatGPT,71
+31,Kadın,22,Yüksek,ChatGPT,92
+32,Erkek,19,Düşük,Claude,68
+33,Erkek,20,Yüksek,Claude,90
+34,Kadın,24,Yüksek,Yok,91
+35,Kadın,24,Düşük,Google Gemini,62
+36,Kadın,19,Yüksek,Bing Copilot,87
+37,Kadın,18,Düşük,Yok,58
+38,Erkek,18,Yüksek,ChatGPT,92
+39,Erkek,18,Orta,ChatGPT,78
+40,Erkek,22,Düşük,Claude,58
